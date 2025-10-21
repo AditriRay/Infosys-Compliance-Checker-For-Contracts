@@ -1,47 +1,13 @@
 # --- Python ---
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.pyc
-*.so
+
 
 # --- Virtual Environments ---
 venv/
 env/
-.venv/
-
-# --- IDE / Editor Files ---
-.vscode/
-.idea/
-*.sublime-workspace
-*.sublime-project
-
-# --- System Files ---
-.DS_Store
-Thumbs.db
-
-# --- Logs and temp files ---
-*.log
-*.tmp
-*.swp
 
 # --- Environment / Secrets ---
 .env
-*.sqlite3
-
-# --- Build / Distribution ---
-build/
-dist/
-*.egg-info/
-
-# --- Jupyter Notebooks checkpoints ---
-.ipynb_checkpoints/
-
-# --- PDF or Data (if you don’t want to push generated files) ---
-*.pdf
-*.csv
-*.json
 
 # --- Cache ---
 .cache/
